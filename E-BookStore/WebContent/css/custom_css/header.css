@@ -1,0 +1,17 @@
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.color-white {
+	color: #FFFFFF !important;
+}
+
+.navbar ul li a {
+	text-decoration: none;
+	color: #FFFFFF !important;
+}
+
+.modal-open {
+	padding-right: 0 !important;
+}

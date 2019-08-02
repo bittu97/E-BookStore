@@ -1,0 +1,26 @@
+/* 
+#main-footer {
+    background: #262F36;
+    color: white;
+    padding: 3rem 0;
+    font-size: 1rem;
+}
+
+#main-footer h6 {
+    color: #718FA9;
+}
+
+#main-footer a {
+    color: #6C6F73;
+} */
+
+ .footer{
+  color: white;
+  padding-top: 3rem;
+  font-size: 1rem;
+  background-color: #262F36;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  align-items: center;
+} 
